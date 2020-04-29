@@ -9,3 +9,5 @@ apt-get update
 
 # Perform jitsi-meet installation
 apt-get -y install jitsi-meet
+
+/usr/share/jitsi-meet/scripts/install-letsencrypt-cert.sh
